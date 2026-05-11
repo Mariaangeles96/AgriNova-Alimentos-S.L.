@@ -70,11 +70,26 @@ Proveedor: Huerta fresca S.L.
 
 ### Informes
 ---
-Empresa a
+Empresa auditada:AgriNova-Alimentos S.L
+Empresa auditora: Auditoria Agroalimentaria 
+Tipo documento: informe seguridad alimentaria
+Estado documento:borrador
+Area funcional: calidad y seguridad alimentaria
+Auditor/a responsable: Trinidad Santos Montalbán
+Hallazgos: no cumple con requisitos higienicos sanitarios
+Plazo subsanacion: 12/07/2026
+Fecha: 11/05/2026
 ---
 
 ### Registros
 ---
+Codigo registro: RL_CV_11052026
+Descripcion: lote crema de verduras
+Fecha_envasado_lote: 11/05/2026
+Fecha_caducidad_lote: 20/05/2026
+Código_barras:587947 458789
+Planta_etiquetado 7
+
 ---
 
 
