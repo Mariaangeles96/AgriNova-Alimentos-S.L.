@@ -113,7 +113,7 @@ Aprobada responsable del área de calidad y seguridad alimentaria-verficación d
 Publicada-técnico del área de seguridad y seguridad alimentaria -publicidad en repositorio-Archivada
 Archivada-técnico de calidad y seguridad alimentaria-reutilización
 
-## Ciclo de vida:ficha de producto
+## Ciclo de vida: ficha de producto
 Borrador-Técnico de calidad y seguridad alimentaria
 En_revisión-Técnico y responsable del área de calidad y seguridad alimentaria
 Aprobación-Responsable del área de calidad y seguridad alimentaria.
