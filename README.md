@@ -4,39 +4,39 @@ Otra ejemplo de práctica de examen
 ## Jerarquía
 
 - Producción
-  -Protocolo manipulación
-  -Manual envasado
+  - Protocolo manipulación
+  - Manual envasado
   
 - Calidad y Seguridad Alimentaria
-  -Certificados Productos
+  - Certificados Productos
   - Control sanitario
 
 -I+D
-  -Inversion maquinaria
-  -Investigacion productos
+  - Inversion maquinaria
+  - Investigacion productos
   
 -Compras
-    -Proveedores locales
-    -Proveedores nacionales
-    -Proveedores UE
-    -Proveedores Extranjeros
+    - Proveedores locales
+    - Proveedores nacionales
+    - Proveedores UE
+    - Proveedores Extranjeros
 
 -Ventas
- - Clientes
+- Clientes
   - Supermercados
   - Minoristas
 
 -Mantenimiento
- -Manual uso maquinaria
+ - Manual uso maquinaria
  - Fichas reparaciones
 
 -Logística
- -Empresa trasportes
+ - Empresa trasportes
 
 - Administración y Dirección
   - Empleados
 
 -Marketing
- -Campañas publicidad
- -Contratos 
+ - Campañas publicidad
+ - Contratos 
   
