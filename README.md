@@ -16,10 +16,10 @@ Otra ejemplo de práctica de examen
   - Investigacion productos
   
 -Compras
-    - Proveedores locales
-    - Proveedores nacionales
-    - Proveedores UE
-    - Proveedores Extranjeros
+- Proveedores locales
+- Proveedores nacionales
+- Proveedores UE
+- Proveedores Extranjeros
 
 -Ventas
 - Clientes
