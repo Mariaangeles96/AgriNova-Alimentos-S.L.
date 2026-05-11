@@ -97,16 +97,28 @@ Código_barras:587947 458789
 Planta_etiquetado 7
 ---
 
-## Flujo de trabajo
+## Flujo de trabajo con GitHub
 -Abrimos un issue para comunicar un error detectado en el control de calidad del producto--> técnico de calidad
 -Creamos una nueva rama para localizar la ficha del producto y ver de qué producto se trata, numero de lote al que pertenece, fecha de compra, cantidad y proveedor--> técnico del área de calidad y seguridad alimentaria
 -Localizado y revisado el proudcto creamos un pull request (una petición) para que se proceda a la retirada del producto--> responsable del área de calidad y seguridad alimentaria
 -Se hace pública la retirada del producto--> operarios del área de calidad y seguridad alimentaria.
 -Conservación de ficha de producto para solicitar descuentos en próximas compras.
 
-## Ciclo de vida del documento
+## Flujo de trabajo sin GitHub
 
+Ficha producto
+Borrador-técnico de calidad y seguridad alimentaria-crea plantilla- En_revision
+En_revision-responsable y técnico área de calidad y seguridad alimentaria- cumplimentación plantilla-Aprobada
+Aprobada responsable del área de calidad y seguridad alimentaria-verficación datos-Publicada
+Publicada-técnico del área de seguridad y seguridad alimentaria -publicidad en repositorio-Archivada
+Archivada-técnico de calidad y seguridad alimentaria-reutilización
 
+## Ciclo de vida:ficha de producto
+Borrador-Técnico de calidad y seguridad alimentaria
+En_revisión-Técnico y responsable del área de calidad y seguridad alimentaria
+Aprobación-Responsable del área de calidad y seguridad alimentaria.
+Publicación- Técnico del área de calidad y seguridad alimentaria.
+Arhivado- Técnico del área de calidad y seguridad alimentaria.
 
 
 
