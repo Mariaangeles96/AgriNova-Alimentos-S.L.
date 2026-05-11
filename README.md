@@ -99,9 +99,12 @@ Planta_etiquetado 7
 
 ## Flujo de trabajo
 -Abrimos un issue para comunicar un error detectado en el control de calidad del producto--> técnico de calidad
--Creamos una nueva rama para documentar en la ficha del producto que un producto en concreto, con tal numero de lote, con tal fecha de compra y de tal proveedor no están aptos para seguir en la cadena de munipulado--> responsable del área de calidad y seguridad alimentaria
--Crea un pull request (una petición) para que se proceda a la retirada del producto--> responsable del área de calidad y seguridad alimentaria
--Puesto en conocimiento, se procede a la retirada del producto--> operarios del área de calidad y seguridad alimentaria.
+-Creamos una nueva rama para localizar la ficha del producto y ver de qué producto se trata, numero de lote al que pertenece, fecha de compra, cantidad y proveedor--> técnico del área de calidad y seguridad alimentaria
+-Localizado y revisado el proudcto creamos un pull request (una petición) para que se proceda a la retirada del producto--> responsable del área de calidad y seguridad alimentaria
+-Se hace pública la retirada del producto--> operarios del área de calidad y seguridad alimentaria.
+-Conservación de ficha de producto para solicitar descuentos en próximas compras.
+
+## Ciclo de vida del documento
 
 
 
