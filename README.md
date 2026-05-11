@@ -55,6 +55,12 @@ Otra ejemplo de práctica de examen
 -Criticidad: alto, medio, bajo 
 -Tipo documento: ficha de producto, informe, registro, protocolo, auditoría, documento, receta, etiqueta, incidencia, manual.
 
+## Nomenclatura
+-Ficha de producto: FP_CV_PLS_LOT_14568_20052026.PDF
+-Informe de laboratorio: ILAB_14052026_LOT_14778_SEG_ALIMENTARIA.PDF
+-Registro de lote:LOT_147_200520226_2544554754455.PDF
+-Documento de proveedor: FACT_1245_14042026.PDF
+
 ## Plantilla metadatos
 ### Ficha producto
 ---
@@ -89,8 +95,8 @@ Fecha_envasado_lote: 11/05/2026
 Fecha_caducidad_lote: 20/05/2026
 Código_barras:587947 458789
 Planta_etiquetado 7
-
 ---
+
 
 
 
