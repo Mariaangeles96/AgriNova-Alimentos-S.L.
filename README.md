@@ -97,6 +97,12 @@ Código_barras:587947 458789
 Planta_etiquetado 7
 ---
 
+## Flujo de trabajo
+-Abrimos un issue para comunicar un error detectado en el control de calidad del producto--> técnico de calidad
+-Creamos una nueva rama para documentar en la ficha del producto que un producto en concreto, con tal numero de lote, con tal fecha de compra y de tal proveedor no están aptos para seguir en la cadena de munipulado--> responsable del área de calidad y seguridad alimentaria
+-Crea un pull request (una petición) para que se proceda a la retirada del producto--> responsable del área de calidad y seguridad alimentaria
+-Puesto en conocimiento, se procede a la retirada del producto--> operarios del área de calidad y seguridad alimentaria.
+
 
 
 
